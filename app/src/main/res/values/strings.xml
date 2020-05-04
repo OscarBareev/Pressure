@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Blood Pressure</string>
+    <string name="bp">BP</string>
+    <string name="healthSystem">Комплексная система мониторинга здоровья</string>
+    <string name="nameHint">ФИО</string>
+    <string name="ageHint">Возраст</string>
+    <string name="save">Сохранить</string>
+    <string name="pressureButton">Давление</string>
+    <string name="healthIndex">Жизненные показатели</string>
+    <string name="topPressureHint">Вверхнее давление</string>
+    <string name="lowPressureHint">Нижнее давление</string>
+    <string name="PulsHint">Пульс</string>
+    <string name="tachycardia">Тахикардия</string>
+    <string name="weight">Вес</string>
+    <string name="stepNumber">Количество шагов</string>
+    <string name="addCorrect">Введите корректные данные</string>
+    <string name="Saved">Сохранено</string>
+    <string name="needData">Заполните данные</string>
+    <string name="date">Дата: "</string>
+    <string name="time">Время: "</string>
+</resources>
